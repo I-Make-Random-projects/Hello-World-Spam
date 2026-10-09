@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  c++.vcxproj -> C:\c++\x64\Release\c++.exe
